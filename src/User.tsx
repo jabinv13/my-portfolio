@@ -27,8 +27,8 @@ const ProjectInfo = [
       "Docker",
       "Kubernetes,Aws,Ci/Cd ,Node js ,Express js",
     ],
-    link: "https://github.com/jabinv13",
-    github: "https://github.com/jabinv13",
+    link: "https://github.com/jabinv13/CrunchCab_Microservice",
+    github: "https://github.com/jabinv13/CrunchCab_Microservice",
   },
   {
     title: "Taskify",
